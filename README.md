@@ -15,11 +15,7 @@ Clean and modern aesthetic to reflect the company's commitment to innovation.
 HTML5, CSS3, JavaScript for frontend development.
 Bootstrap for responsive design.
 GitHub Pages for hosting.
-📁 Repository Structure:
 
-/assets: Contains images, stylesheets, and other static assets.
-/src: Holds the HTML and JavaScript source code.
-/docs: GitHub Pages source files.
 🤝 Contributions:
 Contributions and feedback are welcome! If you spot issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
