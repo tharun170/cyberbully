@@ -24,3 +24,15 @@ Contributions and feedback are welcome! If you spot issues or have suggestions f
 For inquiries or further information, reach out to info@dhyanpower.com.
 
 Thank you for exploring Dhyan Power's online presence! Feel free to share and contribute to the growth of sustainable energy solutions.
+
+Screenshots:
+![image](https://github.com/tharun170/dhyanpower_website/assets/103179672/5e802db6-4f54-4894-b84c-30639c39df34)
+![image](https://github.com/tharun170/dhyanpower_website/assets/103179672/a6985021-f259-4bd3-8b01-accfde6939d2)
+![image](https://github.com/tharun170/dhyanpower_website/assets/103179672/cf64bc43-3057-4f2f-b307-046cb21176d6)
+![image](https://github.com/tharun170/dhyanpower_website/assets/103179672/20113e43-5161-4eda-95b2-e330812f7ca6)
+![image](https://github.com/tharun170/dhyanpower_website/assets/103179672/a5424b8a-5ecc-4403-9af5-71987c0adb11)
+
+
+
+
+
