@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  #countdown {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  /* Responsive styles */
+  @media only screen and (max-width: 600px) {
+    h1 {
+      font-size: 24px;
+      margin-top: 30px;
+    }
+    
+    p {
+      font-size: 14px;
+      margin-top: 15px;
+    }
+  }
+  
